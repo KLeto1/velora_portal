@@ -1,0 +1,2 @@
+Objective: Disable Stelmare’s Counterattack Grid
+Keycode: RT-2024-Alpha
